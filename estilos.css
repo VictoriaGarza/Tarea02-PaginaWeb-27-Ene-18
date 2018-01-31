@@ -18,23 +18,51 @@ p{
 
 .caja1{
 	padding: 1em;
-	background-color: #1abc9c;
+	background-color: #8ce1ff;
 	color: #fff;
+	float:left;
+	height:400px;
+	width:200px;
+	margin:10px;
 }
 
 .caja2{
-	margin:10px;
+	padding: 1em;
+	background-color: #8bdcdd;
+	color: #fff;
+	float:left;
+	height:400px;
+	width:200px;
+	margin: 10px;
+	
+}.caja3{
+	padding: 1em;
+	background-color: #8fc1dc;
+	color: #fff;
+	float:left;
+	height:400px;
+	width:200px;
+	margin: 10px;
+}
+.caja4{
 	padding: 1em;
 	background-color: #1afc9c;
 	color: #fff;
+	float:left;
+	height:400px;
+	width:400px;
+	margin: 10px;
+
 }
+
+
 
 #Cuadro{
 	background-color:#1abc9c;
 	height:50px;
 	width:150px;
 	margin: 20px;
-	float:left;
+	float: none;
 }
 
 a{
@@ -45,9 +73,9 @@ a{
 
 #CuadroE{
 	background-color:#1abc9c;
-	height:50px;
-	width:1000px;
+	height:100px;
+	width:300px;
 	margin: 20px;
-	float:left;
+	float:none;
 	text-align: center
 }
