@@ -1,0 +1,53 @@
+body{
+	background:#7c0d0d;
+}
+
+.centrado{
+	margin:55px 300px;
+ }
+
+#Encabezado{
+	text-align:center;
+	font-style: italic;	}
+
+p{
+	color:#ffffff;
+	font-style: italic;
+
+}
+
+.caja1{
+	padding: 1em;
+	background-color: #1abc9c;
+	color: #fff;
+}
+
+.caja2{
+	margin:10px;
+	padding: 1em;
+	background-color: #1afc9c;
+	color: #fff;
+}
+
+#Cuadro{
+	background-color:#1abc9c;
+	height:50px;
+	width:150px;
+	margin: 20px;
+	float:left;
+}
+
+a{
+	text-decoration;
+	margin:40px 30px 30px 30px;
+	color:#ffffff;
+}
+
+#CuadroE{
+	background-color:#1abc9c;
+	height:50px;
+	width:1000px;
+	margin: 20px;
+	float:left;
+	text-align: center
+}
